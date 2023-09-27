@@ -1,2 +1,2 @@
-# symmetrical-system
+# SpellChecker
 SpellChecker for DS303
