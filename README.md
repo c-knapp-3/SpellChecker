@@ -1,7 +1,7 @@
 # Extra Credit Project for CS303
 # UMKC 2023 Fall
 # Trinity McCann | tlmqdm@umsystem.edu | Student ID: 12564691
-# Student 2
+# Carolyn Knapp | cak2n8@umsystem.edu | Student ID: 16144692
 # Student 3
 
 Project Outline: 
